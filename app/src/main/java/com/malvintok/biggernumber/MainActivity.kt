@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
 
         if(isAnswerCorrect) {
             // Correct answer!!
-            binding.backgroundView.setBackgroundColor(Color.GREEN)
+            binding.backgroundView.setBackgroundColor(Color.CYAN)
             // Show a toast
             Toast.makeText(this,"Correct!", Toast.LENGTH_SHORT).show()
         } else {
