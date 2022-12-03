@@ -17,11 +17,10 @@ The following functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://giphy.com/embed/R4gO4BamLvbGtdoiXD' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[bigger-number-demo](https://user-images.githubusercontent.com/93638561/205441716-70b1b75c-e5ec-42a6-b133-6d97754febb9.gif)
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
+## Notes!
 
 This is my first Android app. It was simple but challenging enough to help me understand building Android apps.
 
