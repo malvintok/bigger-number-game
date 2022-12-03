@@ -18,8 +18,7 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-[comment]: <> (<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />)
-<iframe src="https://giphy.com/embed/R4gO4BamLvbGtdoiXD" width="275" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R4gO4BamLvbGtdoiXD">via GIPHY</a></p>
+<img src='https://giphy.com/embed/R4gO4BamLvbGtdoiXD' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
