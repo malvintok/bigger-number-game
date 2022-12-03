@@ -17,7 +17,7 @@ The following functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[bigger-number-demo](https://user-images.githubusercontent.com/93638561/205441716-70b1b75c-e5ec-42a6-b133-6d97754febb9.gif)
+<img src='https://user-images.githubusercontent.com/93638561/205441716-70b1b75c-e5ec-42a6-b133-6d97754febb9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes!
